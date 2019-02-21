@@ -27,3 +27,4 @@
 | [Devfest Toulouse](https://devfesttoulouse.fr/) | 08/11/2018 | 08/11/2018 | Toulouse | https://devfest-toulouse.cfp.io/ | - | - |
 | [Voxxed Microservices](https://voxxeddays.com/microservices/) | 29/10/2018 | 31/10/2018 | Paris | https://vxdms2018.confinabox.com/ | 15/04/2018 | 31/05/2018 |
 | [Devfest Nantes](https://devfest.gdgnantes.com/) | 18/10/2018 | 19/10/2018 | Nantes | https://conference-hall.io/public/event/inzOQDR94h4bAaOVd7Db | - | - |
+| [AWS Summit](https://aws.amazon.com/fr/events/summits/paris/) | 02/04/2019 | 02/04/2019 | Paris | - | - | - |
