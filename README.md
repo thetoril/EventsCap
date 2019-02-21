@@ -32,4 +32,4 @@
 | [Google Cloud Next](https://cloud.google.com/blog/products/gcp/mark-your-calendar-google-cloud-next-2019) | 09/04/2019 | 11/04/2019 | San Fransisco | - | - | - |
 | [AWS re:Invent](https://reinvent.awsevents.com/) | 02/12/2019 | 06/12/2019 | Las Vegas | - | - | - |
 | [Microsoft Ignite](https://www.microsoft.com/en-us/ignite) | 04/11/2019 | 08/11/2019 | Orlando | - | - | - |
-| [Google Cloud Summit]() | 05/06/2019 | 05/06/2019 | Paris | - | - | - |
+| [Google Cloud Summit] | 05/06/2019 | 05/06/2019 | Paris | - | - | - |
