@@ -1,6 +1,5 @@
 | Nom de la conférence | Début | Fin | Ville | CFP | Début | Fin | Prioritaire|
 |-|-|-|-|-|-|-|
-|-|-|-|-|-|-|-|
 | [DevOps World](https://www.cloudbees.com/devops-world/lisbon) | 02/12/2019 | 05/12/2019 | Lisbonne | https://www.cvent.com/c/abstracts/6eb10034-9500-43a1-97cd-ab4d9230d7f9 | 09/01/2019 | 09/06/2019 |
 | [DevOps World](https://www.cloudbees.com/devops-world/san-francisco) | 12/08/2019 | 15/08/2019 | San Francisco | https://www.cvent.com/c/abstracts/6eb10034-9500-43a1-97cd-ab4d9230d7f9 | 09/01/2019 | 10/03/2019 |
 | [SunnyTech](https://sunny-tech.io/) | 27/06/2019 | 29/06/2019 | Montpellier | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 28/11/2018 | 28/02/2019 |
