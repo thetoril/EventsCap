@@ -1,5 +1,5 @@
 | Nom de la conférence | Début | Fin | Ville | CFP | Début | Fin |
-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|
 | [DevOps World](https://www.cloudbees.com/devops-world/lisbon) | 02/12/2019 | 05/12/2019 | Lisbonne | https://www.cvent.com/c/abstracts/6eb10034-9500-43a1-97cd-ab4d9230d7f9 | 09/01/2019 | 09/06/2019 |
 | [DevOps World](https://www.cloudbees.com/devops-world/san-francisco) | 12/08/2019 | 15/08/2019 | San Francisco | https://www.cvent.com/c/abstracts/6eb10034-9500-43a1-97cd-ab4d9230d7f9 | 09/01/2019 | 10/03/2019 |
 | [SunnyTech](https://sunny-tech.io/) | 27/06/2019 | 29/06/2019 | Montpellier | https://conference-hall.io/public/event/dWsbvnSTdg5v1pxwKhLM | 28/11/2018 | 28/02/2019 |
@@ -27,8 +27,3 @@
 | [Devfest Toulouse](https://devfesttoulouse.fr/) | 08/11/2018 | 08/11/2018 | Toulouse | https://devfest-toulouse.cfp.io/ | - | - |
 | [Voxxed Microservices](https://voxxeddays.com/microservices/) | 29/10/2018 | 31/10/2018 | Paris | https://vxdms2018.confinabox.com/ | 15/04/2018 | 31/05/2018 |
 | [Devfest Nantes](https://devfest.gdgnantes.com/) | 18/10/2018 | 19/10/2018 | Nantes | https://conference-hall.io/public/event/inzOQDR94h4bAaOVd7Db | - | - |
-| [AWS Summit](https://aws.amazon.com/fr/events/summits/paris/) | 02/04/2019 | 02/04/2019 | Paris | - | - | - |
-| [Google Cloud Next](https://cloud.google.com/blog/products/gcp/mark-your-calendar-google-cloud-next-2019/) | 09/04/2019 | 11/04/2019 | San Fransisco | - | - | - |
-| [AWS re:Invent](https://reinvent.awsevents.com/) | 02/12/2019 | 06/12/2019 | Las Vegas | - | - | - |
-| [Microsoft Ignite](https://www.microsoft.com/en-us/ignite/) | 04/11/2019 | 08/11/2019 | Orlando | - | - | - |
-| [Google Cloud Summit] | 05/06/2019 | 05/06/2019 | Paris | - | - | - |
